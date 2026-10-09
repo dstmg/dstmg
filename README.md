@@ -4,7 +4,7 @@
 
 把复杂的电商运营问题，拆成能直接使用的 AI 工具、表格和工作流。
 
-[查看我的工具](https://github.com/dstmg?tab=repositories) · [旺哥的实战项目](https://github.com/wangge-dev) · [开源 Skills 索引](https://github.com/wangge-ai/wangge-skills)
+[查看我的工具](https://github.com/dstmg?tab=repositories) · [进入电商 AI 实战工作间](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/) · [旺哥的实战项目](https://github.com/wangge-dev) · [开源 Skills 索引](https://github.com/wangge-ai/wangge-skills)
 
 ## 关于我
 
@@ -29,6 +29,18 @@
 
 项目能力、安装条件和当前限制，以各仓库 README 为准。
 
+## 电商 AI 实战工作间
+
+从电商经营问题出发，查方法、找工具，也和同行交流实践。
+
+- **运营方法**：电商运营、淘宝天猫、拼多多、千川投放与团队 SOP。
+- **实战工具**：WorkBuddy 运营顾问、Codex 技能中控台、出图工作站与数据平台。
+- **学习与交流**：AI 思维、专项学习资料、高频答疑与 VIP 社群。
+
+**[查看工具、资料与社群介绍 →](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)**
+
+工具介绍可在网站阅读；完整资料和安装包按会员权限访问。
+
 ## 文章与实践记录
 
 我的写作围绕电商经营判断、AI 工具实测、数据分析，以及可复用的 Skill 和工作流。
@@ -40,3 +52,4 @@
 我的合伙人是 [旺哥](https://github.com/wangge-dev)。可以从他的主页查看文章、实战记录，以及 [wangge-ai](https://github.com/wangge-ai) 的开源项目。
 
 我自己的工具保留在本账号下；共同项目的具体分工和参与情况，以对应项目说明为准。
+
