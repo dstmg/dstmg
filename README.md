@@ -1,17 +1,17 @@
 # 电商腿毛哥
 
-### AI × 电商经营 × 实战工作流
+![电商腿毛哥：把电商运营问题做成 AI 工具](./assets/profile-banner.svg)
 
-把复杂的电商运营问题，拆成能直接使用的 AI 工具、表格和工作流。
-
-[全部项目导航](#全部项目导航) · [进入电商 AI 实战工作间](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/) · [旺哥的实战项目](https://github.com/wangge-dev) · [开源 Skills 索引](https://github.com/wangge-ai/wangge-skills)
+**[查看全部工具](#全部项目导航)** · **[进入实战工作间](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)**
 
 ## 精选项目
 
-- [淘宝推广诊断看板](https://github.com/dstmg/taobao-promotion-diagnosis-dashboard)：用本地报表诊断淘宝、天猫推广表现。
-- [京东推广工作台](https://github.com/dstmg/jd-report-workbench)：采集京准通快车报表，分析推广计划、搜索词和地域。
-- [淘宝天猫 SKU 价格监控](https://github.com/dstmg/taobao-tmall-sku-monitor)：在本地记录竞品 SKU 价格，对照历史变化。
-- [小红书下拉词采集](https://github.com/dstmg/xiaohongshu-keyword-skill)：采集两层联想词、截图留证，导出 Excel。
+| 项目 | 能帮你做什么 |
+| :--- | :--- |
+| [淘宝推广诊断看板](https://github.com/dstmg/taobao-promotion-diagnosis-dashboard) | 用本地报表诊断淘宝、天猫推广表现。 |
+| [京东推广工作台](https://github.com/dstmg/jd-report-workbench) | 采集京准通快车报表，分析推广计划、搜索词和地域。 |
+| [淘宝天猫 SKU 价格监控](https://github.com/dstmg/taobao-tmall-sku-monitor) | 在本地记录竞品 SKU 价格，对照历史变化。 |
+| [小红书下拉词采集](https://github.com/dstmg/xiaohongshu-keyword-skill) | 采集两层联想词、截图留证，导出 Excel。 |
 
 ## 关于我
 
@@ -78,7 +78,7 @@
 
 ## 合作与交流
 
-我的合伙人是 [旺哥](https://github.com/wangge-dev)。可以从他的主页查看文章、实战记录，以及 [wangge-ai](https://github.com/wangge-ai) 的开源项目。
+我的合伙人是 [旺哥](https://github.com/wangge-dev)。可以从他的主页查看文章、实战记录，以及 [wangge-ai](https://github.com/wangge-ai) 的开源项目，也可以直接浏览[开源 Skills 索引](https://github.com/wangge-ai/wangge-skills)。
 
 我自己的工具保留在本账号下；共同项目的具体分工和参与情况，以对应项目说明为准。
 
