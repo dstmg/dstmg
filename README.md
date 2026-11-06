@@ -1,17 +1,19 @@
 # 电商腿毛哥
 
-![电商腿毛哥：把电商运营问题做成 AI 工具](./assets/profile-banner.svg)
+### 把电商运营里的重复活，做成可以直接上手的工具。
 
-**[查看全部工具](#全部项目导航)** · **[进入实战工作间](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)**
+从下载报表、诊断推广，到监控竞品价格、研究搜索需求。
 
-## 精选项目
+**[查看开源工具](#全部项目导航)** · **[进入实战工作间](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)**
 
-| 项目 | 能帮你做什么 |
-| :--- | :--- |
-| [淘宝推广诊断看板](https://github.com/dstmg/taobao-promotion-diagnosis-dashboard) | 用本地报表诊断淘宝、天猫推广表现。 |
-| [京东推广工作台](https://github.com/dstmg/jd-report-workbench) | 采集京准通快车报表，分析推广计划、搜索词和地域。 |
-| [淘宝天猫 SKU 价格监控](https://github.com/dstmg/taobao-tmall-sku-monitor) | 在本地记录竞品 SKU 价格，对照历史变化。 |
-| [小红书下拉词采集](https://github.com/dstmg/xiaohongshu-keyword-skill) | 采集两层联想词、截图留证，导出 Excel。 |
+## 从一个问题开始
+
+| 你想解决什么问题？ | 可以试试 |
+| --- | --- |
+| 淘宝推广哪里出了问题？ | [淘宝推广诊断看板](https://github.com/dstmg/taobao-promotion-diagnosis-dashboard) |
+| 京东推广报表怎么分析？ | [京东推广工作台](https://github.com/dstmg/jd-report-workbench) |
+| 竞品哪个规格改价了？ | [淘宝天猫 SKU 价格监控](https://github.com/dstmg/taobao-tmall-sku-monitor) |
+| 小红书用户在搜什么？ | [小红书下拉词采集](https://github.com/dstmg/xiaohongshu-keyword-skill) |
 
 ## 关于我
 
