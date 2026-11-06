@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-labelledby="title">
+<title id="title">电商腿毛哥 · 把电商运营问题做成 AI 工具</title>
+<defs><linearGradient id="bg"><stop stop-color="#101d36"/><stop offset="1" stop-color="#1b3f66"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" fill="none" stroke="#84c5ff" stroke-opacity=".1"/></pattern></defs>
+<rect width="1000" height="290" rx="20" fill="url(#bg)"/><rect width="1000" height="290" rx="20" fill="url(#grid)"/>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif"><text x="54" y="68" fill="#93d9ff" font-size="18" font-weight="700" letter-spacing="3">E-COMMERCE TOOLKIT</text>
+<text x="51" y="142" fill="#f7fbff" font-size="58" font-weight="700">电商腿毛哥</text>
+<text x="54" y="196" fill="#d4eaff" font-size="29">把电商运营问题做成 AI 工具</text>
+<text x="55" y="242" fill="#9dbddd" font-size="17">报表诊断 · 竞品监控 · 搜索洞察</text></g>
+<g transform="translate(664 47)"><rect width="278" height="194" rx="15" fill="#132d4c" stroke="#76b9ed" stroke-opacity=".45"/><circle cx="22" cy="22" r="4" fill="#71d8ff"/><circle cx="37" cy="22" r="4" fill="#477ca7"/><path d="M20 44H258M20 90H258M20 135H258" stroke="#497397" opacity=".48"/>
+<g fill="#3872a5"><rect x="28" y="118" width="21" height="35" rx="4"/><rect x="61" y="102" width="21" height="51" rx="4"/><rect x="94" y="112" width="21" height="41" rx="4"/><rect x="127" y="81" width="21" height="72" rx="4"/><rect x="160" y="93" width="21" height="60" rx="4"/><rect x="193" y="70" width="21" height="83" rx="4"/><rect x="226" y="54" width="21" height="99" rx="4"/></g>
+<path d="m38 105 33-18 33 9 34-28 33 10 32-20 34-15" fill="none" stroke="#90ebff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="237" cy="43" r="5" fill="#90ebff"/><path d="M28 173h55m12 0h34m12 0h48" stroke="#77acd6" stroke-width="5" stroke-linecap="round" opacity=".7"/></g></svg>
